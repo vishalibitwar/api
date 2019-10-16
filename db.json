@@ -26,7 +26,7 @@
     {     "id": 4,
          "name": " Prof. B. S. Shetty",
          "Designation" : "Assistant Professor",
-         "Qualification" : "ME (SRTMU, Nanded), Ph.D. (Appearing )",
+         "Qualification" : "ME , Ph.D. (Appearing )",
          "Specialization": "Data Mining and Neural Network",
          "email":"balajishetty@gmail.com"
     },
@@ -39,8 +39,8 @@
     },
     {    "id": 6,
          "name": "Prof. C. P. Navdeti",
-         "Designation" : "Assistant Professor (On Deputation to IIEST, Kolkata for Ph.D.)",
-         "Qualification" : "M.Tech (IIIT, Allahabad) Ph. D. (Appearing, IIEST)",
+         "Designation" : "Assistant Professor",
+         "Qualification" : "Ph. D.",
          "Specialization": "Wireless Sensor Networks",
          "email":"navdetichandrakant@gmail.com"
     },
